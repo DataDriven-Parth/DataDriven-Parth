@@ -8,26 +8,24 @@ I am an analytical and detail-oriented engineering graduate with hands-on experi
 
 ## 🚀 Skills & Tools
 
-**Data Analytics & BI**
-- Data Analysis  
-- Data Visualization  
-- Dashboard Development  
-- Reporting & Insights  
+### Data Analytics & BI
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2196F3?style=for-the-badge)
+![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-673AB7?style=for-the-badge)
 
-**Databases & SQL**
-- SQL  
-- MySQL  
-- Data Modeling  
+### Databases & SQL
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Power BI & Automation**
-- Power BI  
-- Power Query  
-- DAX (Basic)  
-- Power Automate  
+### Power BI & Automation
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Basic-217346?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
-**Excel**
-- Microsoft Excel  
-- Excel Dashboards  
+### Excel
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel Dashboards](https://img.shields.io/badge/Excel%20Dashboards-2E7D32?style=for-the-badge)
 
 ---
 
